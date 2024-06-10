@@ -5,11 +5,11 @@ The dataset was a furniture inventory sales CSV file and was downloaded from Kag
 
 Objectives
 1.	Breakdown Sales. By understanding how their sales are broken down, the organization can understand their market better. This is key to the marketing department understanding where they might want to focus their efforts on.
-2.	Identify Sales Patterns. Understanding the sales trends over the years by state, segmentation etc. to understand historical data and plan.
+2.	Identify Sales Patterns. Understanding the sales trends over the years by state, segmentation, etc. to understand historical data and plan.
 3.	Strategic Expansion. By understanding sales trends by state, category and region, management can make informed decisions on where to expand based on historical revenue.
-4.	Production Resource Allocation. To be efficient in production, the organization should understand the most in demand products by customer segmentation to understand where to invest more resources.
+4.	Production Resource Allocation. To be efficient in production, the organization should understand the most in-demand products by customer segmentation to understand where to invest more resources.
 5.	Risk management. Analyzing which periods of the year demand is low for which state/ region/ category, management can plan to slow down production to avoid over-supply.
-6.	Market Segmentation. Analyzing profitability of regions/ categories/ state/ cities, the organization can segment their market to know where the high & low margin customer categories lie.
+6.	Market Segmentation. Analyzing the profitability of regions/ categories/states/ cities, the organization can segment its market to know where the high-low-margin customer categories lie.
    
 Process
 1.	Data Profiling
