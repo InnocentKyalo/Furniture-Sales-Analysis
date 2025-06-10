@@ -40,11 +40,11 @@ Data Modelling
 4.	Data Analysis
 The following were the analysis points:
 -	Revenue
-      o	Total Sales
-      o	Average Sales
-      o	Total Cost
-      o	Total Profit
-      o	Sales per Region, Segment, Ship Mode, State, Period, 
+          - Total Sales
+          - Average Sales
+          - Total Cost
+          - Total Profit
+          - Sales per Region, Segment, Ship Mode, State, Period, 
 -	Inventory
       o	Total Units sold
       o	Total SKUs
