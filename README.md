@@ -38,31 +38,33 @@ Data Cleaning
 Data Modelling
 -	Created date hierarchy with year, quarter, month, date
 4.	Data Analysis
-The following were the analysis points:
--	Revenue
-          - Total Sales
-          - Average Sales
-          - Total Cost
-          - Total Profit
-          - Sales per Region, Segment, Ship Mode, State, Period, 
--	Inventory
-      o	Total Units sold
-      o	Total SKUs
-      o	Average Customer Qty
-      o	Inventory per Region, Segment, Ship Mode, State, Period
+### Analysis Points
 
--	Orders
-        o	Total Orders
-        o	Unique Orders
-        o	Average duration by ship mode
-        o	Orders by segment
-        o	Order trend over time
-	
--	Customers
-      o	Total Customers
-      o	Unique Customers
-      o	Customers discount
-      o	Sales per Region, Segment, Ship Mode, State, Period, Sub-Category 
+- **Revenue**
+  - Total Sales  
+  - Average Sales  
+  - Total Cost  
+  - Total Profit  
+  - Sales per Region, Segment, Ship Mode, State, Period  
+
+- **Inventory**
+  - Total Units Sold  
+  - Total SKUs  
+  - Average Customer Quantity  
+  - Inventory per Region, Segment, Ship Mode, State, Period  
+
+- **Orders**
+  - Total Orders  
+  - Unique Orders  
+  - Average Duration by Ship Mode  
+  - Orders by Segment  
+  - Order Trend Over Time  
+
+- **Customers**
+  - Total Customers  
+  - Unique Customers  
+  - Customer Discounts  
+  - Sales per Region, Segment, Ship Mode,
 . I wanted to understand the breakdown of sales both by value and quantity. There were multiple columns, and this presented an opportunity to analyze the data from several perspectives and identify patterns in the data.
 
 Objectives
