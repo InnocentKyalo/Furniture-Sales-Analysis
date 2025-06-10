@@ -1,5 +1,4 @@
-Introduction
-The dataset was a furniture inventory sales CSV file and was downloaded from Introduction
+    Introduction
 The dataset was a furniture inventory sales CSV file and was downloaded from Kaggle. I wanted to understand the breakdown of sales both by value and quantity. There were multiple columns, and this presented an opportunity to analyze the data from several perspectives and identify patterns in the data.
 
 Objectives
@@ -53,12 +52,12 @@ The following were the analysis points:
       o	Inventory per Region, Segment, Ship Mode, State, Period
 
 -	Orders
-o	Total Orders
-o	Unique Orders
-o	Average duration by ship mode
-o	Orders by segment
-o	Order trend over time
-o	
+        o	Total Orders
+        o	Unique Orders
+        o	Average duration by ship mode
+        o	Orders by segment
+        o	Order trend over time
+	
 -	Customers
       o	Total Customers
       o	Unique Customers
