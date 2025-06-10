@@ -63,11 +63,8 @@ This project analyzes a furniture inventory sales dataset downloaded from Kaggle
 
 ## 📁 Data Source
 
-- [Kaggle Furniture Sales Dataset](https://www.kaggle.com/)  
-  *(Provide direct dataset link if available)*
-
----
-
+- [Kaggle Furniture Sales Dataset](https://www.kaggle.com/datasets/zahraaalaatageldein/sales-for-furniture-store)  
+ 
 ## 📌 Next Steps
 
 - Visualize KPIs using Power BI (e.g., revenue by region, average shipping time)
