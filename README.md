@@ -101,5 +101,4 @@ Data Modelling
   - Total Customers  
   - Unique Customers  
   - Customer Discounts  
-  - Sales per Region, Segment, Ship Mode,
-. I wanted to understand the breakdown of sales both by value and quantity. There were multiple columns, and this presented an opportunity to analyze the data from several perspectives and identify patterns in the data.
+  - Sales per Region, Segment, Ship Mode
