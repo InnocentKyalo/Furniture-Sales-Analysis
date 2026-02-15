@@ -102,3 +102,14 @@ Data Modelling
   - Unique Customers  
   - Customer Discounts  
   - Sales per Region, Segment, Ship Mode
+
+  Report Pages
+  1. **Revenue**
+  <img width="1306" height="725" alt="Revenue" src="https://github.com/user-attachments/assets/42e7da68-28a3-44ba-a8b7-278abeea1e57" />
+
+  2. **Inventory**
+  <img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/dbc3b370-3e89-4688-a7f2-254ea7185be8" />
+<img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/dbc3b370-3e89-4688-a7f2-254ea7185be8" />
+
+
+
