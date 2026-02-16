@@ -109,7 +109,13 @@ Data Modelling
 
   2. **Inventory**
   <img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/dbc3b370-3e89-4688-a7f2-254ea7185be8" />
-<img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/dbc3b370-3e89-4688-a7f2-254ea7185be8" />
+
+  3. **Customers**
+  <img width="1299" height="732" alt="image" src="https://github.com/user-attachments/assets/6f6aa754-b1e5-49fd-91f2-4ebb3694893f" />
+
+  4. **Orders**
+     
+
 
 
 
